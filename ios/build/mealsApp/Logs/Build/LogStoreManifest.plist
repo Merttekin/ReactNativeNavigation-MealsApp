@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>83725E6A-048D-4014-9ED3-7580A56ED036</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>83725E6A-048D-4014-9ED3-7580A56ED036.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>mealsApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>mealsApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace mealsApp with scheme mealsApp and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>593981020.00248897</real>
+			<key>timeStoppedRecording</key>
+			<real>593981032.37760699</real>
+			<key>title</key>
+			<string>Building workspace mealsApp with scheme mealsApp and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>83725E6A-048D-4014-9ED3-7580A56ED036</string>
+		</dict>
+		<key>D6C45F7E-E994-4568-90D7-5D76685E60BC</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D6C45F7E-E994-4568-90D7-5D76685E60BC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>mealsApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>mealsApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace mealsApp with scheme mealsApp and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>593979586.87976801</real>
+			<key>timeStoppedRecording</key>
+			<real>593979588.04600894</real>
+			<key>title</key>
+			<string>Building workspace mealsApp with scheme mealsApp and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>D6C45F7E-E994-4568-90D7-5D76685E60BC</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
